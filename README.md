@@ -1,4 +1,4 @@
-# hi, I'm Subasri 👋
+# Hi, I'm Subasri 👋
 
 > ML/AI engineer who loves building things that think. Currently exploring agentic AI, RAG pipelines, and the art of making models actually useful.
 
@@ -8,7 +8,6 @@
 
 - 🎓 M.S. Analytics — UC Berkeley | B.Tech in AI & Data Science
 - 🤖 building agentic systems with **LangGraph**, **MCP**, and **RAG** pipelines
-- 📍 Bay Area, CA
 - 💬 ask me about LLMs, semantic search, or data migration at scale
 - 🌱 currently diving deeper into agentic AI and vector search
 

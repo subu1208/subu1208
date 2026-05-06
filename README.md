@@ -6,7 +6,7 @@
 
 ## About me
 
-- 🎓 M.S. Analytics — UC Berkeley | B.Tech in AI & Data Science
+- 🎓 Masters in Analytics — UC Berkeley | Bachelors in AI & Data Science
 - 🤖 building agentic systems with **LangGraph**, **MCP**, and **RAG** pipelines
 - 💬 ask me about LLMs, semantic search, or data migration at scale
 - 🌱 currently diving deeper into agentic AI and vector search

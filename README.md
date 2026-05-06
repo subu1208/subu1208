@@ -4,7 +4,7 @@
 
 ---
 
-## about me
+## About me
 
 - 🎓 M.S. Analytics — UC Berkeley | B.Tech in AI & Data Science
 - 🤖 building agentic systems with **LangGraph**, **MCP**, and **RAG** pipelines
@@ -13,7 +13,7 @@
 
 ---
 
-## tech stack
+## Tech stack
 
 **languages**
 `Python` `R` `SQL` `C/C++`
@@ -32,7 +32,7 @@
 
 ---
 
-## let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subasri)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subasri.govindan@berkeley.edu)
